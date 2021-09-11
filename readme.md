@@ -1,1 +1,1 @@
-This project was done as part of mtech mini project.
+This project was done as part of mtech mini project. It was amazing.
